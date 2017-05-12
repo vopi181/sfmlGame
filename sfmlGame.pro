@@ -4,3 +4,4 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp
+LIBS += -lsfml-window -lsfml-system -lsfml-graphics
